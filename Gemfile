@@ -17,6 +17,7 @@ group :assets do
 end
 
 gem 'jquery-rails'
+gem 'turbolinks'
 
 group :test do
   gem 'capybara'
